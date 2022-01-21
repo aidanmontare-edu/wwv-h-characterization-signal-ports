@@ -8,3 +8,7 @@ Because different languages may make use of different random number generators, 
 ## Port Status
 
 - Python: mostly complete
+
+![Spectrogram comparison of MATLAB result and Python ported result](spectrograms.png)
+
+(Spectrograms created with Mathematica, I haven't gotten the ones in the Python code to print as nicely yet.)
